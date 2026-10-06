@@ -1,0 +1,246 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="490"
+    height="500"
+    viewBox="0 0 490 500">
+
+    <rect width="100%" height="100%" rx="14"
+          fill="#0d1117"
+          stroke="#30363d"
+          stroke-width="1"/>
+    
+
+<circle cx="22" cy="22" r="5" fill="#ff5f56"/>
+<circle cx="40" cy="22" r="5" fill="#ffbd2e"/>
+<circle cx="58" cy="22" r="5" fill="#27c93f"/>
+
+
+<text x="22" y="58"
+      font-family="monospace"
+      font-size="20"
+      font-weight="700"
+      fill="#3fb950"
+      opacity="0">
+    devansh@github
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.35s"
+             begin="0.0s"
+             fill="freeze"/>
+</text>
+
+
+<text x="22" y="85"
+      font-family="monospace"
+      font-size="13"
+      fill="#30363d"
+      opacity="0">
+    ────────────────────────────────────
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.3s"
+             begin="0.1s"
+             fill="freeze"/>
+</text>
+
+
+<text x="24" y="130"
+      font-family="monospace"
+      font-size="13"
+      fill="#8b949e"
+      opacity="0">
+    Role        
+    <tspan fill="#c9d1d9">Full Stack Developer</tspan>
+
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.35s"
+             begin="0.2s"
+             fill="freeze"/>
+</text>
+
+
+<text x="24" y="157"
+      font-family="monospace"
+      font-size="13"
+      fill="#8b949e"
+      opacity="0">
+    Focus       
+    <tspan fill="#c9d1d9">Web • Software Development • AI</tspan>
+
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.35s"
+             begin="0.30000000000000004s"
+             fill="freeze"/>
+</text>
+
+
+<text x="24" y="202"
+      font-family="monospace"
+      font-size="13"
+      fill="#8b949e"
+      opacity="0">
+    Frontend    
+    <tspan fill="#c9d1d9">React • Tailwind • GSAP</tspan>
+
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.35s"
+             begin="0.4s"
+             fill="freeze"/>
+</text>
+
+
+<text x="24" y="229"
+      font-family="monospace"
+      font-size="13"
+      fill="#8b949e"
+      opacity="0">
+    Backend     
+    <tspan fill="#c9d1d9">Node • Express • PostgreSQL</tspan>
+
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.35s"
+             begin="0.5s"
+             fill="freeze"/>
+</text>
+
+
+<text x="24" y="256"
+      font-family="monospace"
+      font-size="13"
+      fill="#8b949e"
+      opacity="0">
+    Tools       
+    <tspan fill="#c9d1d9">Docker • n8n • Git</tspan>
+
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.35s"
+             begin="0.6000000000000001s"
+             fill="freeze"/>
+</text>
+
+
+<text x="24" y="283"
+      font-family="monospace"
+      font-size="13"
+      fill="#8b949e"
+      opacity="0">
+    Languages   
+    <tspan fill="#c9d1d9">JavaScript • Python</tspan>
+
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.35s"
+             begin="0.7000000000000001s"
+             fill="freeze"/>
+</text>
+
+
+<text x="24" y="328"
+      font-family="monospace"
+      font-size="15"
+      font-weight="700"
+      fill="#58a6ff"
+      opacity="0">
+    Building
+
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.35s"
+             begin="0.8s"
+             fill="freeze"/>
+</text>
+
+
+<text x="24" y="355"
+      font-family="monospace"
+      font-size="13"
+      fill="#c9d1d9"
+      opacity="0">
+    <tspan fill="#3fb950">→</tspan>
+    <tspan dx="8">Fast &amp; maintainable applications</tspan>
+
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.35s"
+             begin="0.9s"
+             fill="freeze"/>
+</text>
+
+
+<text x="24" y="382"
+      font-family="monospace"
+      font-size="13"
+      fill="#c9d1d9"
+      opacity="0">
+    <tspan fill="#3fb950">→</tspan>
+    <tspan dx="8">AI-powered software</tspan>
+
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.35s"
+             begin="1.0s"
+             fill="freeze"/>
+</text>
+
+
+<text x="24" y="409"
+      font-family="monospace"
+      font-size="13"
+      fill="#c9d1d9"
+      opacity="0">
+    <tspan fill="#3fb950">→</tspan>
+    <tspan dx="8">Production-ready systems</tspan>
+
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.35s"
+             begin="1.1s"
+             fill="freeze"/>
+</text>
+
+
+<text x="24" y="442"
+      font-family="monospace"
+      font-size="11"
+      fill="#8b949e"
+      opacity="0">
+    "Not just visually appealing."
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.5s"
+             begin="2.0s"
+             fill="freeze"/>
+</text>
+
+<text x="24" y="460"
+      font-family="monospace"
+      font-size="11"
+      fill="#8b949e"
+      opacity="0">
+    "Built to be production-ready."
+    <animate attributeName="opacity"
+             from="0"
+             to="1"
+             dur="0.5s"
+             begin="2.1s"
+             fill="freeze"/>
+</text>
+
+</svg>
